@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="welcome_string">Signed in as </string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="hint_word">To Do..</string>
+    <string name="button_save">Save</string>
+    <string name="signin_string">Sign in with your Google Account</string>
+    <string name="sign_out_string">Sign Out</string>
+</resources>
